@@ -15,7 +15,7 @@
     "react-native-shared-element": "link:../",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
-    "react-native": "~0.61.4",
+    "react-native": "~0.62.3",
     "react-native-fast-image": "^7.0.2",
     "react-native-gesture-handler": "~1.5.0",
     "react-native-image-pan-zoom": "^2.1.11",
